@@ -1,0 +1,17 @@
+{
+  "name": "MtaaBuzz — Trending in your mtaa",
+  "short_name": "MtaaBuzz",
+  "description": "Kenyan digital community for trending gists, polls, jobs, and local discussions.",
+  "start_url": "/mtaabuzz.html",
+  "id": "/mtaabuzz.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14110D",
+  "theme_color": "#14110D",
+  "categories": ["social", "news", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
